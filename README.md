@@ -4,7 +4,7 @@ This is a repository detailing my learning journey with OpenCV and Tensorflow. C
 
 
 Resources I referred to:
-OpenCV tutorial, TowardsDataScience and various tutorials available on YouTube. 
+OpenCV tutorial, TowardsDataScience and various tutorials available on YouTube and GitHub. 
 
 
 https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
