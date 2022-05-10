@@ -5,3 +5,6 @@ This is a repository detailing my learning journey with OpenCV. Computer Vision 
 
 Resources I referred to:
 OpenCV tutorial, TowardsDataScience and various tutorials available on YouTube. 
+
+
+https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
