@@ -1,4 +1,4 @@
-# Playing-around-with-OpenCV-and-Tensorflow
+# Playing-around-with-CV
 
 This is a repository detailing my learning journey with computer vision, using OpenCV and Tensorflow.
 
