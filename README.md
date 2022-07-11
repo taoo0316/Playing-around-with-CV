@@ -1,7 +1,6 @@
 # Playing-around-with-CV
 
-This is a repository detailing my learning journey with computer vision, using OpenCV and Tensorflow.
-
+This is a repository detailing my learning journey with computer vision.
 
 Resources I referred to:
 OpenCV tutorial, TowardsDataScience and various tutorials available on YouTube and GitHub. 
